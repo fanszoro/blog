@@ -1,0 +1,3 @@
+baseURL = "http://v2.fansluck.top/"
+title = "OPENSL"
+theme = "hugo-theme-learn"
